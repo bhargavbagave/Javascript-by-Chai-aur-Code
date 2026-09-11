@@ -14,4 +14,4 @@ City = "Mumbai"
 /*
     Prefer not to use var because of issue in block scope & functional scope
 */
-console.table([accountId,emailId,password,City,State])
+console.table([accountId,emailId,password,City,State]) 
